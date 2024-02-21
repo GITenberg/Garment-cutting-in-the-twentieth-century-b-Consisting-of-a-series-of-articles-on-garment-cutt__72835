@@ -1,11 +1,16 @@
 _repo: Garment-cutting-in-the-twentieth-century-b-Consisting-of-a-series-of-articles-on-garment-cutt__72835
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72835-h/images/cover.jpg
 creator:
   author:
     agent_name: Hertzer, Günther F.
     gutenberg_agent_id: '56828'
     url: http://www.gutenberg.org/2009/agents/56828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72835#Garment-cutting-in-the-twentieth-century-b-Consisting-of-a-series-of-articles-on-garment-cutt_
 gutenberg_issued: '2024-01-30'
 gutenberg_type: Text
 identifiers:
